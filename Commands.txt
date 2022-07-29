@@ -1,0 +1,2 @@
+django-admin startproject PROJECTNAME (yangi loyiha ochish)
+python manage.py runserver (django loyihani ishga tushirish)
